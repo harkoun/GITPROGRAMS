@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Nov 11 12:32:21 2016
-
+ I am trying to see changes in git repository
 @author: HarshaKoundinya
 """
 from cvxpy import *
